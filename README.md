@@ -4,9 +4,23 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Munish%20Kumar&fontSize=70&animation=fadeIn" />
 </p>
 
-## 🧬 Contribution DNA
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FE&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;AI+%2F+ML+Engineer;NLP+Specialist;Social+Good+Innovator" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=munish2580&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+</p>
+
+---
+
+## 🧬 Contribution DNA & Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/munish2580/munish2580/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=munish2580&theme=radical&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
@@ -30,7 +44,7 @@
 
 ---
 
-## 🏆 Project Spotlight (Interactive)
+## 🏆 Project Spotlight (Interactive Cards)
 <div align="center">
   <a href="https://huggingface.co/spaces/munish2580/Social-Good-Sentiment-Analyzer">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=munish2580&repo=python-files&theme=radical&show_owner=true" />
