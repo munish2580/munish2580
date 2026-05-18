@@ -14,17 +14,32 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 Executive Overview
 
-I am a final-year **B.Tech Data Science** student specializing in **AI and Machine Learning**. I don't just build models; I build solutions with a focus on **Social Good**.
+I am a final-year **B.Tech Data Science** student specializing in **Artificial Intelligence and Machine Learning**. Rather than just training models, my core focus lies in architecting end-to-end deployment loops and physical-digital automation systems designed for **Social Good**.
 
-* 🔭 **Current Focus:** Refining vision-based automation and deep learning architectures.
-<br>
-
-* 📍 **Location:** Based in Jalandhar | Actively seeking **Noida/NCR** opportunities.
-<br>
-
-* ⚡ **Fun Fact:** I believe the best AI is the one that solves real problems and saves lives.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      🎒 <b>Academic Core</b><br>
+      Final-year Data Science major with an intensive focus on statistical modeling, deep learning pipelines, and predictive engineering.
+    </td>
+    <td width="50%" valign="top">
+      🎯 <b>Core Expertise</b><br>
+      Building intelligent architectures using Machine Learning, real-time Computer Vision metrics, embedded IoT solutions, and robust Data Analytics.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      📍 <b>Current Geographics</b><br>
+      Based out of Jalandhar. Actively exploring immediate engineering and analyst roles within the <b>Noida/NCR</b> region.
+    </td>
+    <td width="50%" valign="top">
+      ⚡ <b>Engineering Philosophy</b><br>
+      I firmly believe that the true value of Artificial Intelligence is realized when it directly solves human crises and safeguards real lives.
+    </td>
+  </tr>
+</table>
 
 ---
 
