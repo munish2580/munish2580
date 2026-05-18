@@ -2,8 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Munish%20Kumar&fontSize=70&animation=fadeIn" />
 </h1>
 
+<h3 align="center">
+🚀 Data Science Student | AI & ML Engineer | Building Tech for Social Good 🌍
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=B.Tech+Data+Science+Student;AI+for+Social+Good+🌍;ML+%2F+DL+Enthusiast;Building+Safety+Solutions+🚗" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Developer;Computer+Vision+%26+IoT+Solutions;Data+Analytics+%26+Insights;Building+AI+for+Real+World+Impact" />
 </p>
 
 <p align="center">
@@ -14,50 +18,77 @@
 
 ---
 
-### 👨‍💻 About Me
-I am a final-year **B.Tech Data Science** student specializing in **AI and Machine Learning**. I don't just build models; I build solutions with a focus on **Social Good**.
+# 👨‍💻 About Me
 
-- 🔭 **Current Project:** Refining an **Accident Detection & Driver Drowsiness System**.
-- 📍 **Location:** Based in Jalandhar | Actively seeking **Noida/NCR** opportunities.
-- ⚡ **Fun Fact:** I believe the best AI is the one that saves lives.
+🎓 Final-year **B.Tech Data Science** student specializing in Artificial Intelligence and Machine Learning.
 
----
+💡 Passionate about engineering intelligent architectures and physical-digital automation loops that solve critical, real-world challenges:
 
-### 🛠️ Technical Arsenal
+* Machine Learning & Deep Learning
+* Computer Vision (YOLO, MediaPipe, OpenCV)
+* IoT & Hardware-Software Integration
+* Predictive Health & Social Analytics
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-CC0000?style=for-the-badge&logo=mysql&logoColor=white) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Computer Vision**| ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-00a8e1?style=for-the-badge&logo=google&logoColor=white) |
-| **Data Ops** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black) |
+📍 Based in Jalandhar | Actively seeking **Noida/NCR** career opportunities.
 
 ---
 
-### 🚀 Featured AI for Social Good Projects
+# ⚙️ Technical Arsenal
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h4>🚗 Driver Drowsiness Detection</h4>
-      <p>Real-time Computer Vision system to prevent road accidents by monitoring eye-closure patterns.</p>
-      <code>Python</code> <code>OpenCV</code> <code>Deep Learning</code>
-    </td>
-    <td width="50%">
-      <h4>📊 Social-Good Sentiment Analyzer</h4>
-      <p>Using NLP to track and analyze social impact trends across digital platforms.</p>
-      <code>Transformers</code> <code>HuggingFace</code> <code>Gradio</code>
-    </td>
-  </tr>
-</table>
+## 🧑‍💻 Languages & Core Data Ops
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+</p>
+<p>Python • C++ • SQL • Pandas • NumPy • Hadoop</p>
 
 ---
 
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munish2580&show_icons=true&theme=dracula&count_private=true" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munish2580&layout=compact&theme=dracula" alt="Langs" height="180" />
-</div>
+## 🤖 AI / Machine Learning & Computer Vision
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+<p>Scikit-Learn • MediaPipe • Transformers • HuggingFace • Recommendation Engines</p>
+
+---
+
+## 🌐 Backend, IoT & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=flask,arduino,git,github,vscode" />
+</p>
+<p>Flask Backend • Arduino Hardware Ecosystem • Git/GitHub Control • Gradio Apps</p>
+
+---
+
+# 🚀 Featured "AI for Social Good" Projects
+
+### 🚗 AI-Powered Accident Detection & Driver Safety System
+Real-time critical safety ecosystem using **YOLO** and **OpenCV** for continuous video processing and eye-closure telemetry. Integrates seamlessly with **Arduino** hardware alerts alongside **Twilio** and **Google Maps APIs** for automated, location-precise emergency notifications.
+`Python` `YOLO` `OpenCV` `Arduino` `Twilio API`
+
+### 🏥 HealthFit: End-to-End Medical Analytics Platform
+An advanced healthcare analytics framework that processes and parses raw medical reports to generate predictive diagnostic insights. Delivers personalized, real-time exercise regimens and dietary plans mapped via a centralized analytics dashboard.
+`Machine Learning` `Scikit-Learn` `Data Analytics` `Dashboard Visualizations`
+
+### 📚 Automated Library Assistant & Kiosk
+Smart library management infrastructure powered by an **Arduino IoT kiosk** and **RFID token authentication**. Features a customized hybrid recommendation engine for tailored book discoveries and predictive modeling for return schedules.
+`Flask` `RFID / IoT` `Recommendation Systems` `Predictive Modeling`
+
+---
+
+# 📈 GitHub Dashboard
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=munish2580&show_icons=true&theme=dracula&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munish2580&layout=compact&theme=dracula" height="180"/>
+</p>
+
+---
+
+# 📊 GitHub Activity & Milestones
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=munish2580&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/munish2580/munish2580/output/github-contribution-grid-snake.svg" alt="github-snake" />
@@ -65,10 +96,21 @@ I am a final-year **B.Tech Data Science** student specializing in **AI and Machi
 
 ---
 
+# 🧠 Current Focus Areas
+
+* Advanced System Optimization for Deep Learning Deployment
+* Production-Ready Machine Learning (MLOps)
+* Large Language Models & Advanced NLP Pipelines
+* Real-Time Embedded AI (Edge Computing)
+
+---
+
+# 💡 Core Philosophy
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote" />
 </p>
 
 <p align="center">
-  <b>✨ Build things that matter. ✨</b>
+  <b>✨ Build things that matter. The best AI is the one that saves lives. ✨</b>
 </p>
