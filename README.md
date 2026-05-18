@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Munish%20Kumar&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Munish%20Kumar&fontSize=70&animation=fadeIn" />
 </h1>
 
 <p align="center">
@@ -85,15 +85,14 @@ I am a final-year **B.Tech Data Science** student specializing in **Artificial I
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarb-jot&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarb-jot&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Langs" />
-</p>
+### 📊 GitHub Metrics & Engagement
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarb-jot&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Sarb-jot?template=classic&base.header=0&base.activity=0&base.community=0&repositories=0&metadata=0&theme=tokyonight" height="180" alt="GitHub Metrics" />
 </p>
 
 ---
