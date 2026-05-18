@@ -88,12 +88,12 @@ I am a final-year **B.Tech Data Science** student specializing in **Artificial I
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munish2580&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munish2580&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarb-jot&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarb-jot&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munish2580&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarb-jot&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
 </p>
 
 ---
