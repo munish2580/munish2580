@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Munish%20Kumar&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Munish%20Kumar&fontSize=70&animation=fadeIn" />
 </h1>
 
 <p align="center">
@@ -85,15 +85,19 @@ I am a final-year **B.Tech Data Science** student specializing in **Artificial I
 
 ---
 
-### 📊 GitHub Metrics & Engagement
+### 📊 GitHub Profile Status
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarb-jot&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/Sarb-jot?template=classic&base.header=0&base.activity=0&base.community=0&repositories=0&metadata=0&theme=tokyonight" height="180" alt="GitHub Metrics" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Contributions-Dynamic_Update-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contributions" />
+  <br><br>
+  <a href="https://github.com/Sarb-jot">
+    <img src="https://komarev.com/ghpvc/?username=Sarb-jot&color=a855f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" height="30" />
+  </a>
+</div>
+
+<br>
 
 ---
 
