@@ -15,7 +15,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a final-year **B.Tech Data Science** student specializing in **AI and Machine Learning** [cite: Munish Kumar is a final-year B.Tech Computer Science Engineering student specializing in Data Science., The user demonstrates sustained engagement with the full Data Science lifecycle, including data preprocessing (Pandas, NumPy), machine learning algorithms (Random Forest, SVM, KNN, Gradient Descent), and deep learning frameworks (TensorFlow, PyTorch, YOLO).]. I don't just build models; I build solutions with a focus on **Social Good**.
+I am a final-year **B.Tech Data Science** student specializing in **AI and Machine Learning**. I don't just build models; I build solutions with a focus on **Social Good**.
 
 - 🔭 **Current Focus:** Refining vision-based automation and deep learning architectures.
 - 📍 **Location:** Based in Jalandhar | Actively seeking **Noida/NCR** opportunities.
@@ -45,7 +45,7 @@ I am a final-year **B.Tech Data Science** student specializing in **AI and Machi
     </td>
     <td width="50%" valign="top">
       <h4>🏥 HealthFit: End-to-End Medical Platform</h4>
-      <p>Advanced digital framework parsing medical reports to offer predictive health insights, automated diet charts, and personalized exercise regimes via a real-time dashboard [cite: Developed the "HealthFit" project, an end-to-end system that analyzes medical reports to provide predictive health insights, diet plans, and exercise recommendations., The user rejected a simplified chatbot version of his "HealthFit" project, insisting on a complex architecture involving medical report analysis and real-time dashboard visualizations.].</p>
+      <p>Advanced digital framework parsing medical reports to offer predictive health insights, automated diet charts, and personalized exercise regimes via a real-time dashboard.</p>
       <code>Machine Learning</code> <code>Scikit-Learn</code> <code>Data Analytics</code>
     </td>
   </tr>
@@ -66,14 +66,15 @@ I am a final-year **B.Tech Data Science** student specializing in **AI and Machi
 ---
 
 ### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munish2580&show_icons=true&theme=dracula&count_private=true" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munish2580&layout=compact&theme=dracula" alt="Langs" height="180" />
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/munish2580/munish2580/output/github-contribution-grid-snake.svg" alt="github-snake" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=munish2580&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munish2580&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munish2580&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
+</p>
 
 ---
 
