@@ -2,12 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Munish%20Kumar&fontSize=70&animation=fadeIn" />
 </h1>
 
-<h3 align="center">
-🚀 Data Science Student | AI & ML Engineer | Building Tech for Social Good 🌍
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Developer;Computer+Vision+%26+IoT+Solutions;Data+Analytics+%26+Insights;Building+AI+for+Real+World+Impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=B.Tech+Data+Science+Student;AI+for+Social+Good+🌍;ML+%2F+DL+Enthusiast;Building+Safety+Solutions+🚗" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,92 +14,62 @@
 
 ---
 
-# 👨‍💻 About Me
+### 👨‍💻 About Me
+I am a final-year **B.Tech Data Science** student specializing in **AI and Machine Learning** [cite: Munish Kumar is a final-year B.Tech Computer Science Engineering student specializing in Data Science., The user demonstrates sustained engagement with the full Data Science lifecycle, including data preprocessing (Pandas, NumPy), machine learning algorithms (Random Forest, SVM, KNN, Gradient Descent), and deep learning frameworks (TensorFlow, PyTorch, YOLO).]. I don't just build models; I build solutions with a focus on **Social Good**.
 
-🎓 Final-year **B.Tech Data Science** student specializing in Artificial Intelligence and Machine Learning [cite: Munish Kumar is a final-year B.Tech Computer Science Engineering student specializing in Data Science., The user demonstrates sustained engagement with the full Data Science lifecycle, including data preprocessing (Pandas, NumPy), machine learning algorithms (Random Forest, SVM, KNN, Gradient Descent), and deep learning frameworks (TensorFlow, PyTorch, YOLO).].
-
-💡 Passionate about engineering intelligent architectures and physical-digital automation loops that solve critical, real-world challenges:
-
-* Machine Learning & Deep Learning
-* Computer Vision (YOLO, MediaPipe, OpenCV)
-* IoT & Hardware-Software Integration
-* Predictive Health & Recommendation Systems
-
-📍 Based in Jalandhar | Actively seeking **Noida/NCR** career opportunities.
+- 🔭 **Current Focus:** Refining vision-based automation and deep learning architectures.
+- 📍 **Location:** Based in Jalandhar | Actively seeking **Noida/NCR** opportunities.
+- ⚡ **Fun Fact:** I believe the best AI is the one that solves real problems and saves lives.
 
 ---
 
-# ⚙️ Technical Arsenal
+### 🛠️ Technical Arsenal
 
-## 🧑‍💻 Languages & Core Data Ops
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
-</p>
-<p>Python • C++ • SQL • Pandas • NumPy • Hadoop</p>
-
----
-
-## 🤖 AI / Machine Learning & Computer Vision
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-<p>Scikit-Learn • MediaPipe • YOLO • Transformers • HuggingFace</p> [cite: The user demonstrates sustained engagement with the full Data Science lifecycle, including data preprocessing (Pandas, NumPy), machine learning algorithms (Random Forest, SVM, KNN, Gradient Descent), and deep learning frameworks (TensorFlow, PyTorch, YOLO).]
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-CC0000?style=for-the-badge&logo=mysql&logoColor=white) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **Computer Vision**| ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-00a8e1?style=for-the-badge&logo=google&logoColor=white) |
+| **Data Ops** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black) |
 
 ---
 
-## 🌐 Backend, IoT & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=flask,arduino,git,github,vscode" />
-</p>
-<p>Flask Backend • Arduino Hardware Ecosystem • Git/GitHub Control • Gradio Apps</p>
+### 🚀 Featured Engineering Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚗 Driver Drowsiness Detection System</h4>
+      <p>Real-time Computer Vision system to prevent road accidents by tracking facial mesh metrics and eye-closure patterns (EAR) to trigger smart alerts.</p>
+      <code>Python</code> <code>OpenCV</code> <code>MediaPipe</code> <code>IoT / Arduino</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏥 HealthFit: End-to-End Medical Platform</h4>
+      <p>Advanced digital framework parsing medical reports to offer predictive health insights, automated diet charts, and personalized exercise regimes via a real-time dashboard [cite: Developed the "HealthFit" project, an end-to-end system that analyzes medical reports to provide predictive health insights, diet plans, and exercise recommendations., The user rejected a simplified chatbot version of his "HealthFit" project, insisting on a complex architecture involving medical report analysis and real-time dashboard visualizations.].</p>
+      <code>Machine Learning</code> <code>Scikit-Learn</code> <code>Data Analytics</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📚 AI-Powered Library Management</h4>
+      <p>Smart library automation integrating an Arduino IoT kiosk, RFID token verification, and custom ML algorithms for return schedule forecasting.</p>
+      <code>Flask Backend</code> <code>RFID Hardware</code> <code>Predictive Modeling</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎬 Movie Recommendation Engine</h4>
+      <p>A smart machine learning model merging Collaborative Filtering and Content-Based mechanisms to serve dynamic, tailored content suggestions.</p>
+      <code>Python</code> <code>Recommendation Systems</code> <code>Scikit-Learn</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
-
-## 🚗 Integrated Driver Safety & Accident Detection System
-Real-time critical safety ecosystem integrating Computer Vision and hardware automation:
-* **Driver Drowsiness Detection:** Monitors eye-closure patterns (EAR) using OpenCV and MediaPipe to detect driver fatigue instantly.
-* **Accident Detection:** Uses a trained **YOLO** model for live crash tracking, triggering an automated alert pipeline via **Twilio API** and **Google Maps API** for instant emergency notifications.
-* Integrated with **Arduino** for structural hardware alarms.
-
----
-
-## 🏥 HealthFit: End-to-End Medical Analytics Platform
-An advanced healthcare system focused on report processing and predictive health metrics [cite: Developed the "HealthFit" project, an end-to-end system that analyzes medical reports to provide predictive health insights, diet plans, and exercise recommendations., The user rejected a simplified chatbot version of his "HealthFit" project, insisting on a complex architecture involving medical report analysis and real-time dashboard visualizations.]:
-* Parses and analyzes clinical medical reports to deliver accurate predictive health insights.
-* Generates dynamically tailored diet charts and real-time exercise recommendations mapped directly onto a centralized dashboard visualization [cite: Developed the "HealthFit" project, an end-to-end system that analyzes medical reports to provide predictive health insights, diet plans, and exercise recommendations., The user rejected a simplified chatbot version of his "HealthFit" project, insisting on a complex architecture involving medical report analysis and real-time dashboard visualizations.].
-
----
-
-## 📚 Automated Library Assistant & Kiosk
-Smart library management infrastructure powered by physical automation and predictive intelligence:
-* Implements **RFID token authentication** via an **Arduino IoT kiosk** for secure book tracking and access control.
-* Features a built-in **Flask backend** leveraging custom Machine Learning models to predict late return behaviors and optimize circulation.
-
----
-
-## 🎬 Hybrid Movie Recommendation System
-An intelligent content filtering engine developed to maximize user engagement and personalized content delivery:
-* Combines **Collaborative Filtering** and **Content-Based Filtering** mechanics to deliver highly refined movie suggestions.
-* Solves data sparsity and cold-start hurdles for digital media platforms.
-
----
-
-# 📈 GitHub Dashboard
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=munish2580&show_icons=true&theme=dracula&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munish2580&layout=compact&theme=dracula" height="180"/>
-</p>
-
----
-
-# 📊 GitHub Activity & Milestones
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=munish2580&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=munish2580&show_icons=true&theme=dracula&count_private=true" alt="Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munish2580&layout=compact&theme=dracula" alt="Langs" height="180" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/munish2580/munish2580/output/github-contribution-grid-snake.svg" alt="github-snake" />
@@ -111,20 +77,10 @@ An intelligent content filtering engine developed to maximize user engagement an
 
 ---
 
-# 🧠 Currently Learning & Refining
-
-* Enterprise Machine Learning Deployment Pipelines (MLOps)
-* Real-Time Deep Learning Optimization on Edge Devices
-* Advanced Recommendation Topologies & Graph Analytics
-
----
-
-# 💡 Core Philosophy
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote" />
 </p>
 
 <p align="center">
-  <b>✨ Build things that matter. The best AI is the one that saves lives. ✨</b>
+  <b>✨ Build things that matter. ✨</b>
 </p>
