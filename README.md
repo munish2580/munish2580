@@ -3,72 +3,54 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=B.Tech+Data+Science+Student;AI+for+Social+Good+🌍;ML+%2F+DL+Enthusiast;Building+Safety+Solutions+🚗" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> &nbsp;
-  <a href="https://www.linkedin.com/in/munish-kumar-44a226322/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a> &nbsp;
-  <a href="https://huggingface.co/munish2003"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=B.Tech+Data+Science+Student;AI+for+Social+Good+🌍;ML+%2F+DL+Enthusiast;Building+Scalable+Data+Solutions+📊" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 Executive Summary
+### 👨‍💻 About Me
+Final-year **Data Science student** obsessed with turning complex data into actionable intelligence. My focus is on writing clean, production-ready ML code that solves real-world problems.
 
-I am a final-year **B.Tech Data Science student** specializing in **Artificial Intelligence and Machine Learning**. I architect end-to-end predictive networks and intelligent applications designed for **Social Good**.
-
-📍 **Current Location:** Jalandhar | 🚀 **Open to relocation:** Noida / Delhi NCR
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      🎒 <b>Academic Track</b><br>
-      Final-year Data Science major with an intensive focus on statistical modeling and production pipelines.
-    </td>
-    <td width="50%" valign="top">
-      🎯 <b>Core Focus Areas</b><br>
-      Machine Learning, Real-time Computer Vision, and Embedded IoT systems.
-    </td>
-  </tr>
-</table>
+📍 Based in Jalandhar | 🚀 **Open to relocation: Noida / Delhi NCR**
 
 ---
 
-### 🛠️ Technical Arsenal
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-CC0000?style=for-the-badge&logo=mysql&logoColor=white) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Data Ops** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
+### 🛠️ Technical Stack
+* **Languages:** Python (Advanced), SQL
+* **ML/DL:** PyTorch, TensorFlow, Scikit-Learn
+* **Data Engineering:** Pandas, NumPy, Hadoop
+* **Vision:** OpenCV, MediaPipe, YOLO
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Engineering Portfolio (Click to View Code)
 
-| Project Name | Description | Demo |
+| Project | Core Logic | Skills Used |
 | :--- | :--- | :--- |
-| **HealthFit AI** | End-to-end Medical Platform (Predictive Risks) | [🔗 Live App](https://healthfit-ai.onrender.com) |
-| **Driver Safety** | Computer Vision-based Drowsiness Detector | [🎥 Watch Video](https://www.linkedin.com/in/munish-kumar-44a226322/) |
-| **Library Assistant** | IoT-based RFID Library Management | [💻 Code](https://github.com/munish2580) |
-| **CinematchFlix** | ML-based Movie Recommendation System | [🎥 Watch Video](https://www.linkedin.com/in/munish-kumar-44a226322/) |
+| **HealthFit AI** | Predictive risk modeling using medical reports. | ML, Scikit-Learn |
+| **Driver Safety** | Fatigue detection via EAR/Facial mesh tracking. | Computer Vision |
+| **Library Smart** | IoT-based automated inventory management. | Flask, RFID |
+| **CinematchFlix** | Personalized movie discovery & filtering. | KNN, Collaborative Filtering |
 
 ---
 
-### 📊 GitHub Activity
+### 🧠 Project Deep Dive (Architecture)
 
+*Recruiters check this to understand how you handle data from raw input to prediction.*
+
+* **Data Preprocessing:** Cleaning and normalizing datasets using Pandas/NumPy.
+* **Model Training:** Designing architecture optimized for accuracy and inference speed.
+* **Automation:** Integrating APIs (Twilio/Maps) for real-world impact.
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=munish2580&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=munish2580&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=munish2580.profile" alt="Visitor Counter"/>
-</p>
-
 ---
-
 <p align="center">
-  <b>✨ Build things that matter. ✨</b>
+  <b>✨ Always coding, always learning. ✨</b>
 </p>
